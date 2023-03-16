@@ -12,3 +12,4 @@ test case 4 >> Pass
 
 test case 5 >> Pass
 done
+completed
